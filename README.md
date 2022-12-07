@@ -1,4 +1,4 @@
-# Twitter-Meme-API-Host
+# Twitter-Meme-API
 For Getting Memes from Twitter
 An API used to scrap memes from Twitter Userid and returns in json.
 
