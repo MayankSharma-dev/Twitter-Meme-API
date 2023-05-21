@@ -2,7 +2,7 @@
 For Getting Memes from Twitter
 An API used to scrap memes from Twitter Userid and returns in json.
 
-The Link of the Meme APIs is : http://ms-twitter-memeapi.azurewebsites.net
+The Link of the Meme APIs is : https://ms-twitter.azurewebsites.net
 
 // At the first ping the api takes times to get the data in order to wakeup the server, after the first successful ping the delay is resolved.
 
@@ -30,7 +30,7 @@ By default the API grabs a random meme from
 
 
 
-API Link : http://ms-twitter-memeapi.azurewebsites.net
+API Link : https://ms-twitter.azurewebsites.net
 
 Example Response:
 
@@ -58,7 +58,7 @@ In order to get multiple memes in a single request from the default userid, spec
 
 Endpoint: /{count}
 
-Example: http://ms-twitter-memeapi.azurewebsites.net/2
+Example: https://ms-twitter.azurewebsites.net/2
 
 Response:
 
@@ -93,7 +93,7 @@ In order to get a random posts from any Userid, specify the subreddit name in th
 
 Endpoint: /{userid}
 
-Example: http://ms-twitter-memeapi.azurewebsites.net/allindiamemes
+Example: https://ms-twitter.azurewebsites.net/allindiamemes
 
 Response:
 
@@ -119,7 +119,7 @@ In order to get a custom number of posts from a specific Userid, specify the nam
 
 Endpoint: /{userid}/{count}
 
-Example: http://ms-twitter-memeapi.azurewebsites.net/allindiamemes/5
+Example: https://ms-twitter.azurewebsites.net/allindiamemes/5
 
 Response:
 ```lua
