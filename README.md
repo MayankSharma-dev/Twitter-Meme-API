@@ -12,7 +12,8 @@ By default the API grabs a random meme from
     "memes",
     "Theindianmeme", #IND
     "OldMemeArchive",
-    "_sarcasticvijay", #IND 
+    "_sarcasticvijay", #IND #_sarcasticvijay
+    "Memeland",
     "GabbbarSingh", #IND
     "RespectfulMemes",
     "Being_Humor", #IND
@@ -20,13 +21,15 @@ By default the API grabs a random meme from
     "WholesomeMeme",
     "sagarcasm", #IND
     "OhWonka",
-    #"Lord_Voldemort7",
     "trilochann45", #IND
     "moretylenol",
-    "_sarcasticvijay", #IND 
     "whitememejesus",
     "memes_hallabol", #IND
-    "IntrovertProbss"
+    "IntrovertProbss",
+    "insultsrare",
+    "InternetH0F",
+    "crim_tweets_",
+    "insanepplYT"
 
 
 
